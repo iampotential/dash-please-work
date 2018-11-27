@@ -8,4 +8,5 @@ Includes nfl sports betting information from 1999 to September of 2018. Will be 
 
 Thank you dash community for help by sharing examples and actively answering questions. 
 
+Anthony 
 
